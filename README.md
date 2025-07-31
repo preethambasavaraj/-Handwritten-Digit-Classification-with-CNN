@@ -2,7 +2,7 @@
 
 This project demonstrates the classification of handwritten digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) using a simple Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
-Project Overview
+**Project Overview**
 
 The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9), each of size 28x28 pixels. This project involves:
 
@@ -13,14 +13,14 @@ The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9
 - Displaying accuracy for each digit
 - Visualizing sample predictions with confidence levels
 
-Technologies Used
+**Technologies Used**
 
 - Python 3.x  
 - TensorFlow 2.x  
 - NumPy  
 - Matplotlib
 
-📊 Output Example
+**📊 Output Example**
 
 Test loss: 0.0354, Test accuracy: 0.9881
 
@@ -36,7 +36,7 @@ Accuracy for each digit:
 - Digit 8: 0.9789
 - Digit 9: 0.9823
 
-🧾Output Visualizations
+**🧾Output Visualizations**
 
 <br>
 <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/d7c7e76c-a7c5-442a-91b7-c18c56fd2987" />
