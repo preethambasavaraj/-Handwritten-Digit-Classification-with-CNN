@@ -35,3 +35,10 @@ Accuracy for each digit:
 - Digit 7: 0.9872
 - Digit 8: 0.9789
 - Digit 9: 0.9823
+
+🧾Output Visualizations
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/d7c7e76c-a7c5-442a-91b7-c18c56fd2987" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/ce523c0d-e734-43f2-bf85-66f69b990c5d" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/ff109e18-7510-4c5c-b392-5cd859577d14" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/8608c7de-78d7-4521-94e6-e02546b1e075" />
+
