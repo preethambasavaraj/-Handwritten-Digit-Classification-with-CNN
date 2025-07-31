@@ -25,13 +25,13 @@ Technologies Used
 Test loss: 0.0354, Test accuracy: 0.9881
 
 Accuracy for each digit:
-Digit 0: 0.9892
-Digit 1: 0.9934
-Digit 2: 0.9857
-Digit 3: 0.9821
-Digit 4: 0.9846
-Digit 5: 0.9814
-Digit 6: 0.9898
-Digit 7: 0.9872
-Digit 8: 0.9789
-Digit 9: 0.9823
+
+- Digit 0: 0.9892
+- Digit 1: 0.9934
+- Digit 3: 0.9821
+- Digit 4: 0.9846
+- Digit 5: 0.9814
+- Digit 6: 0.9898
+- Digit 7: 0.9872
+- Digit 8: 0.9789
+- Digit 9: 0.9823
